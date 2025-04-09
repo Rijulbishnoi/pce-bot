@@ -8,7 +8,7 @@ import google.generativeai as genai
 
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
-# model = genai.GenerativeModel("gemini-flash-1.5") 
+#git add .model = genai.GenerativeModel("gemini-flash-1.5") 
 model = genai.GenerativeModel("gemini-pro") 
 
 def my_output(query):
