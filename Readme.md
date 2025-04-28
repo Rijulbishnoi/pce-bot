@@ -13,6 +13,7 @@ python-dotenv
 google-generativeai 
 
 Now open the terminal and write 
+web;wefhp ;sdfb;wiubfwiuew
 pip install -r requirements.txt 
 
 step-3 : Now we will create '.env' file in which we will store our secrets . 
